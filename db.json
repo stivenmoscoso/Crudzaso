@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Usuario",
+      "email": "user@gmail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "e9c0",
+      "name": "Juan Pepito",
+      "email": "pepito12@gmail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "c849",
+      "name": "Jonathan Ocaciones",
+      "email": "oca@gmail.com",
+      "password": "123456",
+      "role": "user"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "c2e2",
+      "title": "hola",
+      "description": "hola",
+      "category": "Mathematics",
+      "priority": "Low",
+      "status": "Pending",
+      "dueDate": "2026-02-04",
+      "userId": "2",
+      "createdAt": "2026-02-02T15:33:50.686Z"
+    },
+    {
+      "id": "c9b7",
+      "title": "papa",
+      "description": "heellelaslknfdasjkdjk",
+      "category": "Computer Science",
+      "priority": "Baja",
+      "status": "Pending",
+      "dueDate": "2026-02-26",
+      "userId": "2",
+      "createdAt": "2026-02-02T15:34:04.982Z"
+    },
+    {
+      "id": "e0ed",
+      "title": "Hacer comida",
+      "description": "papas con arroz",
+      "category": "Physics",
+      "priority": "High",
+      "status": "Completed",
+      "dueDate": "2026-02-27",
+      "userId": "e9c0",
+      "createdAt": "2026-02-02T15:42:58.885Z"
+    },
+    {
+      "id": "2d4b",
+      "title": "Ir a trabajar a coca cola",
+      "description": "a las 8",
+      "category": "Computer Science",
+      "priority": "Low",
+      "status": "In Progress",
+      "dueDate": "2026-02-20",
+      "userId": "c849",
+      "createdAt": "2026-02-02T15:44:07.743Z"
+    }
+  ]
+}
